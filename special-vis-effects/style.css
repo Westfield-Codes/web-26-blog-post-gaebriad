@@ -4,4 +4,14 @@
 body {
   color:white;
   background-image: url(https://file.garden/apjcwYRHMVBTGkNo/star-points-stains-backgrounds-textures-e6e5c8-1024.jpg);
+  @font-face {
+    font-family: "century-gothic";
+  url(https://use.typekit.net/oov2wcw.css)
+  }
+
+  h2 {
+  font-family: "Comic Sans MS", "Comic Sans";
+  not(:first-child)
+    }
+  
 }
