@@ -1,13 +1,22 @@
 /* LEAVE THESE */
 
 /* NEW CSS HERE */
+@import url('https://fonts.cdnfonts.com/css/sf-distant-galaxy');
+
 body {
   color:white;
   background-image: url(https://file.garden/apjcwYRHMVBTGkNo/star-points-stains-backgrounds-textures-e6e5c8-1024.jpg);
 }
   h2 {
   font-family: "Comic Sans MS", "Comic Sans";
-  not(:first-child)
+  font-size:28px;
     }
+  h1 {
+    font-family: 'SF Distant Galaxy Alternate', sans-serif;
+    font-size:35px;
+    letter-spacing: 0.10em; !important;
+    color:yellow;
+    color: transparent;
+    -webkit-text-stroke: 1px yellow;
+  }
   
-}
