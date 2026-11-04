@@ -20,3 +20,9 @@ body {
     -webkit-text-stroke: 1px yellow;
   }
   
+  .card-header {
+    color:black
+  }
+  .card-body {
+    color:black
+  }
