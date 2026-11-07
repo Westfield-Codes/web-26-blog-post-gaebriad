@@ -26,3 +26,8 @@ body {
   .card-body {
     color:black
   }
+  .rounded-circle {
+    border-style:dotted;
+    border: weight 5px;
+    border-color: rgb(176, 176, 0);
+  }
