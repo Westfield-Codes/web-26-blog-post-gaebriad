@@ -21,10 +21,10 @@ body {
   }
   
   .card-header {
-    color:black
+    color:black;
   }
   .card-body {
-    color:black
+    color:black;
   }
   .rounded-circle {
     border-style:dotted;
