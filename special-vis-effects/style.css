@@ -13,9 +13,9 @@ body {
     }
   h1 {
     font-family: 'SF Distant Galaxy Alternate', sans-serif;
-    font-size:35px;
+    font-size: 35px;
     letter-spacing: 0.10em; !important;
-    color:yellow;
+    color: yellow;
     color: transparent;
     -webkit-text-stroke: 1px yellow;
   }
